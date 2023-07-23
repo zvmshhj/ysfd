@@ -2,6 +2,6 @@
   "name": "YourProjectName",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://yun.nxflv.com/$1"}
+    {"src": "/(.*)","dest": "https://jx.xmflv.com/$1"}
   ]
 }
